@@ -103,4 +103,4 @@ See [LICENSE](LICENSE) for details.
 
 ## Resources
 
-- [Webring on Wikipedia](https://en.wikipedia.org/wiki/Webring)
+- [Webring on Fandom](https://wikis.fandom.com/wiki/WebRings)
