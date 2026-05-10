@@ -60,6 +60,8 @@ A `<bch-webring>` Web Component — pure JavaScript, no dependencies. Site data 
    }
    ```
 
+   > **Prefer not to load remote scripts?** You can copy [`webring.js`](./webring.js) directly into your project and serve it yourself. The file has no dependencies — just host it anywhere and point your `<script src="...">` at your own local copy.
+
 ---
 
 Example screenshot when deployed:
