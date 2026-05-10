@@ -2,6 +2,8 @@
 
 A modern implementation of webrings for the Bitcoin Cash community, bringing back a beloved web tradition with contemporary technology.
 
+**Go directly to:** [Getting started](#getting-started).
+
 ## What are Webrings?
 
 [Webrings](https://wikis.fandom.com/wiki/WebRings) are a curated collection of websites linked together in a ring structure, allowing users to navigate from one site to the next in the same community or interest group.
@@ -36,7 +38,7 @@ A `<bch-webring>` Web Component — pure JavaScript, no dependencies. Site data 
 
 #### For Site Owners
 
-1. Submit a pull request adding your site to [`webring.json`](./webring.json) (see the data structure below).
+1. Submit a pull request adding your site to [`webring.json`](./webring.json) file. Just [edit the file](https://github.com/BitcoinCash1/css-webring/edit/main/webring.json). (see the data structure below).
 
 2. Load the script and add the element to your page:
 
@@ -89,7 +91,7 @@ Each entry requires `url`, `name`, and `owner`. Add your site by opening a pull 
 
 We welcome contributions in the following ways:
 
-1. **Submit Your Site**: Add your Bitcoin Cash-related website to the webring via pull request
+1. **Submit Your Site**: [Add your Bitcoin Cash-related website to the webring](https://github.com/BitcoinCash1/css-webring/edit/main/webring.json) via pull request
 2. **Report Issues**: Found a bug or have a feature suggestion? Open an issue
 3. **Improve the Code**: Pull requests for improvements, optimizations, and new features
 
