@@ -60,6 +60,12 @@ A `<bch-webring>` Web Component — pure JavaScript, no dependencies. Site data 
    }
    ```
 
+---
+
+Example screenshot when deployed:
+
+![Screenshot](./example_screen.png)
+
 #### Data structure (JSON)
 
 The [`webring.json`](./webring.json) file is a flat array of site objects:
