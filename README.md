@@ -30,7 +30,7 @@ Webrings are experiencing a revival because:
 
 This project implements a modern webring using Web Components, making it easy for Bitcoin Cash community websites to participate with minimal setup.
 
-A `<webring-css>` Web Component — pure JavaScript, no dependencies. Site data lives in `webring.json` in this repo; the Shadow DOM keeps its styles isolated from the host page. Sites join via pull request, navigate via prev/next/random links rendered by the component.
+A `<bch-webring>` Web Component — pure JavaScript, no dependencies. Site data lives in `webring.json` in this repo; the Shadow DOM keeps its styles isolated from the host page. Sites join via pull request, navigate via prev/next/random links rendered by the component.
 
 ### Getting Started
 
@@ -47,13 +47,13 @@ A `<webring-css>` Web Component — pure JavaScript, no dependencies. Site data 
    />
    <script src="https://raw.githubusercontent.com/BitcoinCash1/css-webring/main/webring.js"></script>
 
-   <webring-css site="https://yourdomain.com"></webring-css>
+   <bch-webring site="https://yourdomain.com"></bch-webring>
    ```
 
    Or omit the stylesheet and style the element yourself in your own CSS:
 
    ```css
-   webring-css {
+   bch-webring {
      display: block;
      max-width: 450px;
      margin: 1rem auto;

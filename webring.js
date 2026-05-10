@@ -105,4 +105,4 @@ class WebRing extends HTMLElement {
   }
 }
 
-window.customElements.define("webring-css", WebRing);
+window.customElements.define("bch-webring", WebRing);
