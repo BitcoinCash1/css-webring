@@ -3,5 +3,10 @@
     "url": "https://bchexplorer.cash",
     "name": "BCH Explorer",
     "owner": "Melroy van den Berg"
+  },
+  {
+    "url": "https://awesomebitcoin.cash",
+    "name": "Awesome Bitcoin Cash",
+    "owner": "2qx"
   }
 ]
